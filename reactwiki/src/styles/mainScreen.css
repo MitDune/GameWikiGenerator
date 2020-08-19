@@ -1,0 +1,17 @@
+#mainPage {
+  display: grid;
+  grid-template-columns: 15% 70% 15%;
+}
+
+leftSide {
+}
+
+rightSide {
+}
+
+.sideBar {
+  background-color: #444;
+}
+
+pageContent {
+}
