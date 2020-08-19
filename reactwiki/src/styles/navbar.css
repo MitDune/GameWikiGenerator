@@ -1,0 +1,10 @@
+#mainNav {
+  background-color: black;
+  color: white;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  top: 0;
+  width: 100%;
+  min-height: 10%;
+  max-height: 100%;
+}
